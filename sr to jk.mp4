@@ -4,3 +4,5 @@ J     K     clk pulse         expected Q
 0     1        1                 0(reset)
 1     1        1                 toggle
 
+video in RAW
+
